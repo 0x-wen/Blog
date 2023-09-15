@@ -5,7 +5,7 @@ date: 2023-08-09
 tags: [python]
 ---
 
-### [**back**](../../../general.html)   |   [**code**](https://github.com/JW-Zhang001/Blog-code/tree/main/python/python-code) 
+### [**back**](../index.md)   |   [**code**](https://github.com/JW-Zhang001/Blog-code/tree/main/python/python-code) 
 
 
 ## 1.基础知识

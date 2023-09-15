@@ -11,11 +11,11 @@ Hobby: Crypto world practitioners and open source enthusiasts
 
 ## Blogs
 
-|           **Categories**           |           **Description**          |              **Tags**              |
-|:----------------------------------:|:----------------------------------:|:----------------------------------:|
-| [Link to web3](./web3.html)        | blockchain、nft、defi、dapp         | crypto                             |
-| [Link to security](./security.html)| web blockchain security            | security                           |
-| [Link to general](./general.html)  | general basic skills               | general                            |
+|             **Categories**               |           **Description**          |              **Tags**              |
+|:----------------------------------------:|:----------------------------------:|:----------------------------------:|
+| [web3](./posts/web3/index.html)          | blockchain、nft、defi、dapp         | crypto                             |
+| [security](./posts/security/index.html)  | web blockchain security            | security                           |
+| [general](./posts/general/index.html)    | general basic skills               | general                            |
 
 
 
