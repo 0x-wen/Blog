@@ -1,0 +1,11 @@
+from fastapi import FastAPI, File
+
+
+app = FastAPI()
+
+
+@app.post("/upload")
+def upload_file(file: bytes = File()):
+    with open("abc.txt", "wb") as f:
+        f.write(file)
+    return file

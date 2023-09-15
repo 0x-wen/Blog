@@ -5,6 +5,6 @@ date: 2023-09-15
 tags: [web3基础]
 ---
 
-### [back](../../index.html)  
+### [back](../index.html)  
 
 ## 搬砖中
