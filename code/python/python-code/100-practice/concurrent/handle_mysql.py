@@ -13,8 +13,8 @@ import string
 
 
 class HandleMysql:
-    mysql_oms_database_info = {"host": "23.91.96.234", "user": "root", "password": "KcDc5Sx7VSSEyH3D",
-                               "db": "cs3_fu", "port": 10004, "charset": "utf8"}
+    mysql_oms_database_info = {"host": "xxxx", "user": "root", "password": "xxxxx",
+                               "db": "xxxx", "port": 12, "charset": "utf8"}
 
     def __init__(self):
         self.conn = pymysql.connect(host=self.mysql_oms_database_info["host"],
